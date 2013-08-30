@@ -70,6 +70,7 @@
     <Reference Include="System.Windows.Browser" />
     <Reference Include="Telerik.Windows.Controls">
       <HintPath>..\Libs\Telerik.Windows.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
